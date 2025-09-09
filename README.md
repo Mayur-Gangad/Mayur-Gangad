@@ -5,7 +5,7 @@
 
 <!-- Banner Image -->
 <p align="center">
-  <img src="C:\Users\Dell\OneDrive\Desktop" alt="banner" width="80%" />
+  <img src="./banner.png" alt="banner" width="80%" />
 </p>
 
 ---
