@@ -50,7 +50,7 @@
 
 | Project Name | Description | Tech Stack |
 |--------------|-------------|------------|
-| **Portfolio Website** | Personal portfolio with React & TailwindCSS | React, Tailwind |
+| **Jira-Dashboard** | A simple **Jira-like Task Management Board** built with **React** supporting **drag-and-drop**, **localStorage persistence**, and **task tagging**.   | React, css, JS |
 | **MERN Blog** | Full-stack blog application | MongoDB, Express, React, Node |
 | **K8s Deployment** | Docker + Kubernetes Deployment setup | Docker, K8s |
 
